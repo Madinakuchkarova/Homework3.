@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Задача 1.
-        System.out.println("ЗАДАЧА 1");
+        System.out.println("ЗАДАЧА 1!");
         int variable1 = 997_703_779;
         System.out.println("Значение переменной variable1 с типом int равно " + variable1);
         byte variable2 = -127;
@@ -58,7 +58,7 @@ public class Main {
         int weightInGrams = bananasWeight + milkWeight + iceCreamWeight + eggsWeight;
         float weightInKilograms = weightInGrams / 1000F;
         System.out.println("Вес спорт-завтрака = " + weightInKilograms + " кг");
-        System.out.println("Задача 7");
+        System.out.println("Задача 7!");
         int sevenKilogramsInGrams = 7 * 1000;
         int daysIfLose250PerDay = sevenKilogramsInGrams / 250;
         int daysIfLose500PerDay = sevenKilogramsInGrams / 500;
